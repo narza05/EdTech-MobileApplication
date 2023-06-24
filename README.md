@@ -24,7 +24,7 @@ tasks and processes within an educational institution
 
 
 ## Features: 
-##### <u> CAN'T POST FEATURE'S SCREENSHOTS BECAUSE OF PRIVACY REASONS </u>
+##### <ins> CAN'T POST FEATURE'S SCREENSHOTS BECAUSE OF PRIVACY REASONS </ins>
 
 * Add classes, students, teachers, parents, subjbects (Access : ADMIN)
 * Timetable
