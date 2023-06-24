@@ -22,7 +22,9 @@ tasks and processes within an educational institution
 * Xampp
 
 
+
 ## Features: 
+##### <U> CAN'T POST FEATURE'S SCREENSHOTS BECAUSE OF PRIVACY REASONS </u>
 
 * Add classes, students, teachers, parents, subjbects (Access : ADMIN)
 * Timetable
